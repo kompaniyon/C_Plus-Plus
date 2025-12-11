@@ -1,3 +1,5 @@
+з правої сторони просто закачати розбитий на частини архів
+
 # C_Plus-Plus
 chm help    С++, С++/CLI    - ukrainian language. OOP, webView2 С++/CLI, C++/WinRT and WinUI 3
 
